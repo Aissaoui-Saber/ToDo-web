@@ -1,0 +1,3 @@
+D:\Mega\Projects\Other\ToDo web\Api\obj\Debug\NodejsApp1.njsprojAssemblyReference.cache
+D:\Mega\Projects\Other\ToDo web\Api\obj\Debug\NodejsApp1.njsproj.CoreCompileInputs.cache
+D:\Mega\Projects\Other\ToDo web\Api\bin\Microsoft.NodejsTools.WebRole.dll
